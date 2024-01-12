@@ -1,0 +1,9 @@
+@article{REPO396,
+    author = "Fu, Hang and Zhang, Aizhu and Sun, Genyun and Ren, Jinchang and Jia, Xiuping and Pan, Zhaojie and Ma, Hongzhang",
+    journal = "IEEE transactions on geoscience and remote sensing",
+    pages = "1--13",
+    publisher = "IEEE",
+    title = "{A Novel Band Selection and Spatial Noise Reduction Method for Hyperspectral Image Classification}",
+    volume = "60",
+    year = "2022"
+}
